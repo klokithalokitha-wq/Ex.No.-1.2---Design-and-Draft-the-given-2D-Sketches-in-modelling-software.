@@ -33,10 +33,12 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ <img width="1907" height="980" alt="Screenshot 2026-11-24 152822" src="https://github.com/user-attachments/assets/0d2c9505-1164-46c2-b453-1837dee44ab6" />
+
 
  ## OUTPUT
- <img width="913" height="635" alt="Screenshot 2026-11-24 102622" src="https://github.com/user-attachments/assets/e4af343c-4ecf-4509-909e-e90d293224f9" />
+ <img width="1022" height="715" alt="Screenshot 2026-11-24 155352" src="https://github.com/user-attachments/assets/237c3a79-163f-4c85-baf9-9267097aaa46" />
+
 
  
  ## RESULT
